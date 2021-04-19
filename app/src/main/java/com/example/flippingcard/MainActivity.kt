@@ -57,12 +57,8 @@ class MainActivity : AppCompatActivity() {
                 front_anim.start()
                 isFront =true
 
-
              }
         }
-
-
-
 
 
     }
